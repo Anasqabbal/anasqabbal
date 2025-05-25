@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+ // add  some comments on the README.md file 
+ just to add the things and make it work for the full path
+ 
 -->
