@@ -69,14 +69,3 @@ A containerized infrastructure project orchestrating services using Docker Compo
 <summary><b>⚙️ Philosophers</b></summary>
 A solution to the classic dining philosophers problem in C. This project demonstrates mastery over concurrent programming, utilizing `pthread` and `mutex` to safely manage shared resources without starvation or deadlocks.
 </details>
-
----
-
-## 📊 1337 (42 Network) Stats
-
-<p align="center">
-  <a href="https://github.com/mohouyizme/1337-readme">
-    <img src="https://1337-readme.vercel.app/api/profile?1337_login=anasqabbal" alt="Anas's 1337 Profile Stats" />
-  </a>
-</p>
-
