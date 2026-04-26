@@ -8,6 +8,8 @@
 </p>
 
 ---
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&login=anqabbal)](https://github.com/mohouyizme/1337-readme)
+---
 
 ## 👨‍💻 About Me
 
@@ -74,3 +76,4 @@ A solution to the classic dining philosophers problem in C. This project demonst
     <img src="https://1337-readme.vercel.app/api/profile?1337_login=anasqabbal" alt="Anas's 1337 Profile Stats" />
   </a>
 </p>
+
