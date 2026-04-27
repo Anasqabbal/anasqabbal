@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Anas Qabbal 👋</h1>
 <h3 align="center">Software Engineer | Systems, Backend & Full-Stack</h3>
 
-<p align="center">
-  <a href="https://profile.intra.42.fr/users/anasqabbal"><img src="https://img.shields.io/badge/42_Network-%23000000.svg?style=for-the-badge&logo=42&logoColor=white" alt="42 Network"></a>
-  <a href="https://linkedin.com/in/anasqabbal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:anasqabbal22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<div align="center">
+
+[![42 Network](https://img.shields.io/badge/42-black)](https://profile.intra.42.fr/users/anasqabbal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/in/anasqabbal)
+[![Email](https://img.shields.io/badge/Email-D14836)](mailto:anasqabbal22@gmail.com)
+
+</div>
 
 ---
 
@@ -27,21 +29,21 @@ My engineering philosophy is rooted in building from the ground up. Whether it's
 ## 🛠️ Technical Arsenal
 
 **Systems & Backend**<br>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+![C](https://img.shields.io/badge/language-C-00599C)
+![C++](https://img.shields.io/badge/language-C%2B%2B-00599C)
+![Bash](https://img.shields.io/badge/language-Bash-black)
+![Linux](https://img.shields.io/badge/system-Linux-green)
+![Docker](https://img.shields.io/badge/tool-Docker-2496ED)
 
 **Full-Stack Web**<br>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+![HTML5](https://img.shields.io/badge/language-HTML5-E34F26)
+![CSS3](https://img.shields.io/badge/language-CSS3-1572B6)
+![TailwindCSS](https://img.shields.io/badge/framework-TailwindCSS-38B2AC)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-F7DF1E)
+![TypeScript](https://img.shields.io/badge/language-TypeScript-3178C6)
+![React](https://img.shields.io/badge/framework-React-61DAFB)
+![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-336791)
+![SQLite](https://img.shields.io/badge/database-SQLite-003B57)
 
 ## 🏗️ Engineering Capabilities
 
@@ -50,26 +52,43 @@ Through extensive project work, I have cultivated deep expertise in:
 - **Network Programming:** Designing non-blocking, multiplexed I/O architectures (`select`/`poll`) and implementing network protocols (HTTP/1.1) from raw sockets.
 - **Concurrency:** Managing multithreaded environments, handling thread synchronization, and utilizing mutexes to prevent data races and deadlocks.
 - **Algorithm Optimization:** Analyzing time/space complexity and designing highly optimized sorting and data manipulation algorithms under strict operational constraints.
-- **Full-Stack Integration:** Designing interactive, data-driven web interfaces and connecting them to robust backends.
+- **Full-Stack & Real-Time Systems:** Designing interactive, data-driven web interfaces and utilizing WebSockets for low-latency, bi-directional multiplayer game states.
+- **Security & Infrastructure:** Implementing Web Application Firewalls (WAF) and secret management systems (Vault) to secure distributed web services.
+- **Agile Collaboration & Peer Review:** Thriving in an intensive peer-to-peer learning ecosystem, I consistently drive collaborative problem-solving, conduct rigorous code reviews, and excel in team dynamics to deliver high-quality software.
 
 ## 🏆 Featured Core Projects
 
 <details>
+<summary><b>🃏 ft_transcendence (UNO Game)</b></summary>
+The capstone full-stack project of the 42 curriculum. I developed a comprehensive multiplayer gaming platform featuring real-time UNO gameplay powered by WebSockets. My major technical contributions focused on backend architecture, implementing robust security layers including a Web Application Firewall (WAF) and HashiCorp Vault for secure secrets management, alongside engineering the core real-time game engine.
+
+🔗 [Discover more](https://github.com/anasqabbal/ft_transcendence)
+</details>
+
+<details>
 <summary><b>🌐 Webserver (webserv)</b></summary>
 A custom HTTP/1.1 server written in C++98. Engineered to handle GET, POST, and DELETE methods, support CGI, and manage multiple ports simultaneously using non-blocking I/O multiplexing. This project required a deep dive into network sockets and the RFCs governing the HTTP protocol.
+
+🔗 [Discover more](https://github.com/anasqabbal/webserver)
 </details>
 
 <details>
 <summary><b>🐚 Minishell</b></summary>
 A functional UNIX shell developed from scratch in C. Features include a custom parser for user input, environment variable expansion, complex quote management, UNIX pipe handling, and the execution of built-ins and system binaries.
+
+🔗 [Discover more](https://github.com/anasqabbal/minishell)
 </details>
 
 <details>
 <summary><b>🐳 Inception</b></summary>
 A containerized infrastructure project orchestrating services using Docker Compose. Built secure, custom images for NGINX, WordPress, and MariaDB on Alpine Linux, focusing on network security, volume persistence, and service isolation.
+
+🔗 [Discover more](https://github.com/anasqabbal/Inception)
 </details>
 
 <details>
 <summary><b>⚙️ Philosophers</b></summary>
 A solution to the classic dining philosophers problem in C. This project demonstrates mastery over concurrent programming, utilizing `pthread` and `mutex` to safely manage shared resources without starvation or deadlocks.
+
+🔗 [Discover more](https://github.com/anasqabbal/philosophers)
 </details>
