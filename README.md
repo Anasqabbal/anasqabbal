@@ -44,6 +44,7 @@ My engineering philosophy is rooted in building from the ground up. Whether it's
 ![React](https://img.shields.io/badge/framework-React-61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-336791)
 ![SQLite](https://img.shields.io/badge/database-SQLite-003B57)
+![Redis](https://img.shields.io/badge/database-Redis-DC382D)
 
 ## 🏗️ Engineering Capabilities
 
@@ -53,7 +54,7 @@ Through extensive project work, I have cultivated deep expertise in:
 - **Concurrency:** Managing multithreaded environments, handling thread synchronization, and utilizing mutexes to prevent data races and deadlocks.
 - **Algorithm Optimization:** Analyzing time/space complexity and designing highly optimized sorting and data manipulation algorithms under strict operational constraints.
 - **Full-Stack & Real-Time Systems:** Designing interactive, data-driven web interfaces and utilizing WebSockets for low-latency, bi-directional multiplayer game states.
-- **Security & Infrastructure:** Implementing Web Application Firewalls (WAF) and secret management systems (Vault) to secure distributed web services.
+- **Security & Infrastructure:** Implementing Web Application Firewalls (WAF) and secret management systems (Vault) to secure distributed web services, alongside designing containerized ecosystems with in-memory caching (Redis) for database optimization.
 - **Agile Collaboration & Peer Review:** Thriving in an intensive peer-to-peer learning ecosystem, I consistently drive collaborative problem-solving, conduct rigorous code reviews, and excel in team dynamics to deliver high-quality software.
 
 ## 🏆 Featured Core Projects
@@ -81,7 +82,7 @@ A functional UNIX shell developed from scratch in C. Features include a custom p
 
 <details>
 <summary><b>🐳 Inception</b></summary>
-A containerized infrastructure project orchestrating services using Docker Compose. Built secure, custom images for NGINX, WordPress, and MariaDB on Alpine Linux, focusing on network security, volume persistence, and service isolation.
+A containerized infrastructure project orchestrating services using Docker Compose. Built secure, custom images for NGINX, WordPress, and MariaDB on Alpine Linux, focusing on network security, volume persistence, and service isolation. Integrated Redis as an object caching layer to drastically reduce database load and optimize performance.
 
 🔗 [Discover more](https://github.com/anasqabbal/Inception)
 </details>
