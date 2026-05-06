@@ -63,7 +63,7 @@ Through extensive project work, I have cultivated deep expertise in:
 <summary><b>🃏 ft_transcendence (UNO Game)</b></summary>
 The capstone full-stack project of the 42 curriculum. I developed a comprehensive multiplayer gaming platform featuring real-time UNO gameplay powered by WebSockets. My major technical contributions focused on backend architecture, implementing robust security layers including a Web Application Firewall (WAF) and HashiCorp Vault for secure secrets management, alongside engineering the core real-time game engine.
 
-🔗 [Discover more](https://github.com/anasqabbal/ft_transcendence)
+🔗 [Discover more](https://github.com/anasslouribi/ft_transcendence)
 </details>
 
 <details>
