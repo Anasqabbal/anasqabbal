@@ -60,6 +60,15 @@ Through extensive project work, I have cultivated deep expertise in:
 ## 🏆 Featured Core Projects
 
 <details>
+<summary><b>🦠 Conway's Game of Life</b></summary>
+A containerized, full-stack implementation of Conway's Game of Life simulation. It features an interactive React/TypeScript frontend styled with Tailwind CSS, showing state transitions directly on cell click, and a Node.js/Express backend wrapping a C++ game logic engine compiled from OCF-compliant OOP code. The application uses container-based network isolation via Docker Compose, utilizing Vite's dev server proxy to route frontend calls to the isolated backend.
+
+* **Technologies Used:** C++, TypeScript, React, Node.js, Express, Tailwind CSS, Docker, Vite.
+
+🔗 [Discover more](https://github.com/WebProjects/GameOfLife)
+</details>
+
+<details>
 <summary><b>🃏 ft_transcendence (UNO Game)</b></summary>
 The capstone full-stack project of the 42 curriculum. I developed a comprehensive multiplayer gaming platform featuring real-time UNO gameplay powered by WebSockets. My major technical contributions focused on backend architecture, implementing robust security layers including a Web Application Firewall (WAF) and HashiCorp Vault for secure secrets management, alongside engineering the core real-time game engine.
 
