@@ -18,6 +18,11 @@
   [![42 stats 2026](https://1337-stats.vercel.app/api/stats?login=anqabbal)](https://github.com/mohouyizme/1337-readme)
 </div>
 
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+  <img src="https://badge.mediaplus.ma/darkblue/anqabbal" alt="anqabbal's 42 stats" />
+  </a>
+</p>
 ---
 
 ## 👨‍💻 About Me
