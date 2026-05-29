@@ -61,7 +61,7 @@ Through extensive project work, I have cultivated deep expertise in:
 
 <details>
 <summary><b>🦠 Conway's Game of Life</b></summary>
-A containerized, full-stack implementation of Conway's Game of Life simulation. It features an interactive React/TypeScript frontend styled with Tailwind CSS, showing state transitions directly on cell click, and a Node.js/Express backend wrapping a C++ game logic engine compiled from OCF-compliant OOP code. The application uses container-based network isolation via Docker Compose, utilizing Vite's dev server proxy to route frontend calls to the isolated backend.
+A containerized, full-stack implementation of Conway's Game of Life simulation, designed as a visual companion to demonstrate the process isolation, I/O piping, and routing concepts required by the 42 Network Exam06. It features an interactive React/TypeScript dashboard styled with Tailwind CSS, showing state transitions directly on cell click, and a Node.js/Express backend wrapping a C++ game logic engine compiled from OCF-compliant OOP code. The application uses container-based network isolation via Docker Compose, utilizing Vite's dev server proxy to route frontend calls to the isolated backend.
 
 * **Technologies Used:** C++, TypeScript, React, Node.js, Express, Tailwind CSS, Docker, Vite.
 
