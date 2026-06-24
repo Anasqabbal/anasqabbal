@@ -83,7 +83,7 @@ The capstone full-stack project of the 42 curriculum. I developed a comprehensiv
 ### 🌐 Webserver (webserv)
 A custom HTTP/1.1 server written in C++98. Engineered to handle GET, POST, and DELETE methods, support CGI, and manage multiple ports simultaneously using non-blocking I/O multiplexing. This project required a deep dive into network sockets and the RFCs governing the HTTP protocol.
 
-![How Webserv Works](how_it_works.png)
+![Webserver Demo](webServer.gif)
 
 🔗 [Discover more](https://github.com/anasqabbal/webserver)
 
