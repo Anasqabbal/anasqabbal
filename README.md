@@ -59,46 +59,57 @@ Through extensive project work, I have cultivated deep expertise in:
 
 ## 🏆 Featured Core Projects
 
-<details>
-<summary><b>🦠 Conway's Game of Life</b></summary>
+### 🦠 Conway's Game of Life
 A containerized, full-stack implementation of Conway's Game of Life simulation, designed as a visual companion to demonstrate the process isolation, I/O piping, and routing concepts required by the 42 Network Exam06. It features an interactive React/TypeScript dashboard styled with Tailwind CSS, showing state transitions directly on cell click, and a Node.js/Express backend wrapping a C++ game logic engine compiled from OCF-compliant OOP code. The application uses container-based network isolation via Docker Compose, utilizing Vite's dev server proxy to route frontend calls to the isolated backend.
 
 * **Technologies Used:** C++, TypeScript, React, Node.js, Express, Tailwind CSS, Docker, Vite.
 
 🔗 [Discover more](https://github.com/WebProjects/GameOfLife)
-</details>
 
-<details>
-<summary><b>🃏 ft_transcendence (UNO Game)</b></summary>
+---
+
+### 🃏 ft_transcendence (UNO Game)
 The capstone full-stack project of the 42 curriculum. I developed a comprehensive multiplayer gaming platform featuring real-time UNO gameplay powered by WebSockets. My major technical contributions focused on backend architecture, implementing robust security layers including a Web Application Firewall (WAF) and HashiCorp Vault for secure secrets management, alongside engineering the core real-time game engine.
 
 🔗 [Discover more](https://github.com/anasslouribi/ft_transcendence)
-</details>
 
-<details>
-<summary><b>🌐 Webserver (webserv)</b></summary>
+---
+
+### 🌐 Webserver (webserv)
 A custom HTTP/1.1 server written in C++98. Engineered to handle GET, POST, and DELETE methods, support CGI, and manage multiple ports simultaneously using non-blocking I/O multiplexing. This project required a deep dive into network sockets and the RFCs governing the HTTP protocol.
 
-🔗 [Discover more](https://github.com/anasqabbal/webserver)
-</details>
+![How Webserv Works](how_it_works.png)
 
-<details>
-<summary><b>🐚 Minishell</b></summary>
+🔗 [Discover more](https://github.com/anasqabbal/webserver)
+
+---
+
+### 🐚 Minishell
 A functional UNIX shell developed from scratch in C. Features include a custom parser for user input, environment variable expansion, complex quote management, UNIX pipe handling, and the execution of built-ins and system binaries.
 
 🔗 [Discover more](https://github.com/anasqabbal/minishell)
-</details>
 
-<details>
-<summary><b>🐳 Inception</b></summary>
+---
+
+### 🎮 cub3D
+A 3D graphics engine maze game built from scratch in C. Using Raycasting techniques (inspired by Wolfenstein 3D), the engine renders a pseudo-3D perspective from a 2D map grid in real-time. It features wall texturing, collision detection, and smooth player movement.
+
+* **Technologies Used:** C, MiniLibX/MLX42, Raycasting (Trigonometry & DDA Algorithm).
+
+![cub3D Demo](cub3D.gif)
+
+🔗 [Discover more](https://github.com/anasqabbal/cub3D)
+
+---
+
+### 🐳 Inception
 A containerized infrastructure project orchestrating services using Docker Compose. Built secure, custom images for NGINX, WordPress, and MariaDB on Alpine Linux, focusing on network security, volume persistence, and service isolation. Integrated Redis as an object caching layer to drastically reduce database load and optimize performance.
 
 🔗 [Discover more](https://github.com/anasqabbal/Inception)
-</details>
 
-<details>
-<summary><b>⚙️ Philosophers</b></summary>
+---
+
+### ⚙️ Philosophers
 A solution to the classic dining philosophers problem in C. This project demonstrates mastery over concurrent programming, utilizing `pthread` and `mutex` to safely manage shared resources without starvation or deadlocks.
 
 🔗 [Discover more](https://github.com/anasqabbal/philosophers)
-</details>
