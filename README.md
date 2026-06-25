@@ -118,3 +118,12 @@ A containerized infrastructure project orchestrating services using Docker Compo
 A solution to the classic dining philosophers problem in C. This project demonstrates mastery over concurrent programming, utilizing `pthread` and `mutex` to safely manage shared resources without starvation or deadlocks.
 
 🔗 [Discover more](https://github.com/anasqabbal/philosophers)
+
+---
+
+### 🔄 push_swap
+An algorithmic optimization project designed to sort data on a stack using a highly constrained set of instructions. This project highlights my ability to implement and optimize complex sorting algorithms (e.g., using Longest Increasing Subsequence and chunking) and carefully manage memory in C.
+
+![Push Swap Demo](pushSwapAlgorithmOutput.gif)
+
+🔗 [Discover more](https://github.com/Anasqabbal/push_swap)
