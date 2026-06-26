@@ -73,8 +73,12 @@ A containerized, full-stack implementation of Conway's Game of Life simulation, 
 
 ---
 
-### 🃏 ft_transcendence (UNO Game)
-The capstone full-stack project of the 42 curriculum. I developed a comprehensive multiplayer gaming platform featuring real-time UNO gameplay powered by WebSockets. My major technical contributions focused on backend architecture, implementing robust security layers including a Web Application Firewall (WAF) and HashiCorp Vault for secure secrets management, alongside engineering the core real-time game engine.
+### 🃏 ft_transcendence
+The capstone full-stack project of the 42 curriculum. A real-time multiplayer gaming platform featuring three games — **UNO**, **Tic-Tac-Toe**, and **Liar's Bar** — powered by WebSockets (Socket.IO) across a microservices architecture with 5 independent backend services communicating via RabbitMQ. My major technical contributions focused on building the **Liar's Bar** bluffing card game with real-time multiplayer, implementing enterprise-grade security layers including a **ModSecurity WAF** (with OWASP rules) as the external traffic entry point and **HashiCorp Vault** for centralized secret management (JWT keys, SSL certificates, service credentials), and contributing to game customization options. The platform is fully containerized with Docker Compose, secured with HTTPS via self-signed SSL/TLS, and monitored through an ELK stack and Prometheus + Grafana.
+
+* **Technologies Used:** Next.js, TypeScript, Express.js, Socket.IO, SQLite, RabbitMQ, Docker, Nginx, ModSecurity, HashiCorp Vault, ELK Stack, Prometheus, Grafana.
+
+![ft_transcendence Demo](ft_transcendence.gif)
 
 🔗 [Discover more](https://github.com/anasslouribi/ft_transcendence)
 
