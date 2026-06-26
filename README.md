@@ -80,7 +80,7 @@ The capstone full-stack project of the 42 curriculum. A real-time multiplayer ga
 
 ![ft_transcendence Demo](ft_transcendence.gif)
 
-🔗 [Discover more](https://github.com/anasslouribi/ft_transcendence)
+🔗 [Discover more](https://github.com/Anasqabbal/ft_transcendence)
 
 ---
 
