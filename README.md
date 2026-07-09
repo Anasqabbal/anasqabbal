@@ -130,9 +130,14 @@ A solution to the classic dining philosophers problem in C. This project demonst
 An algorithmic optimization project designed to sort data on a stack using a highly constrained set of instructions. This project highlights my ability to implement and optimize complex sorting algorithms (e.g., using Longest Increasing Subsequence and chunking) and carefully manage memory in C.
 
 
-​The In-Game Live Chat feature allows players to communicate with each other in real-time while actively engaged in gameplay. By providing a seamless, non-intrusive text interface, this feature fosters community, enables strategic coordination, and significantly enhances the multiplayer experience. Players can easily share tips, engage in friendly banter, and coordinate team tactics without ever having to pause the game or leave the current session.
-
+​
 
 ![Push Swap Demo](pushSwapAlgorithmOutput.gif)
+
+
+### some features to add
+
+The In-Game Live Chat feature allows players to communicate with each other in real-time while actively engaged in gameplay. By providing a seamless, non-intrusive text interface, this feature fosters community, enables strategic coordination, and significantly enhances the multiplayer experience. Players can easily share tips, engage in friendly banter, and coordinate team tactics without ever having to pause the game or leave the current session.
+
 
 🔗 [Discover more](https://github.com/Anasqabbal/push_swap)
