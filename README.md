@@ -135,9 +135,14 @@ An algorithmic optimization project designed to sort data on a stack using a hig
 ![Push Swap Demo](pushSwapAlgorithmOutput.gif)
 
 
-### some features to add
+### 🪶 some features to add
 
+#### 💭 Game live chat
 The In-Game Live Chat feature allows players to communicate with each other in real-time while actively engaged in gameplay. By providing a seamless, non-intrusive text interface, this feature fosters community, enables strategic coordination, and significantly enhances the multiplayer experience. Players can easily share tips, engage in friendly banter, and coordinate team tactics without ever having to pause the game or leave the current session.
+
+### add skins to the game
+### update the currents tiles
+### separate the code from the styles
 
 
 🔗 [Discover more](https://github.com/Anasqabbal/push_swap)
