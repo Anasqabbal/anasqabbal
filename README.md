@@ -24,6 +24,7 @@
   </a>
 </p>
 
+
 ---
 
 <p align="center">
@@ -32,6 +33,13 @@
     alt="GitHub Streak"
   />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Anasqabbal" alt="Leetcode Stats" />
+</div>
+
 
 
 ## 👨‍💻 About Me
