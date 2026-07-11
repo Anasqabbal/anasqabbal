@@ -28,7 +28,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF"
+    src="https://streak-stats.demolab.com?user=Anasqabbal&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF"
     alt="GitHub Streak"
   />
 </p>
