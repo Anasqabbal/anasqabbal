@@ -32,7 +32,7 @@ I am a software engineer with a rigorous foundation forged at **1337 (42 Network
 
 My engineering philosophy is rooted in building from the ground up. Whether it's developing a custom HTTP server in C++98, engineering a UNIX shell from scratch, or designing responsive full-stack applications, I am driven by a deep curiosity for how things work under the hood. I thrive in environments that demand robust problem-solving, clean code architecture, and continuous learning.
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 **Systems & Backend**<br>
 ![C](https://img.shields.io/badge/language-C-00599C)
