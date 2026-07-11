@@ -26,7 +26,7 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anasqabbal)
 
 
 ## 👨‍💻 About Me
