@@ -26,6 +26,11 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+
 ## 👨‍💻 About Me
 
 I am a software engineer with a rigorous foundation forged at **1337 (42 Network)**. I specialize in bridging the gap between low-level systems architecture and modern web applications. 
