@@ -3,8 +3,12 @@
 </p>
 
 
+<!-- <p align="center">
+  <img src="./LinkedinGitHub_banner.jpg" alt="Anas Qabbal - Systems that do not break" width="890" />
+</p> -->
+
 <p align="center">
-  <img src="./about-me-svg.svg" alt="Anas Qabbal Terminal Bio" width="800" />
+  <img src="./intro.svg" alt="Anas Qabbal Terminal Bio" width="100%" />
 </p>
 
 
@@ -36,11 +40,16 @@
 ---
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Anasqabbal&hide_border=false&border_radius=12&background=0A0A0A&border=262626&stroke=262626&ring=39FF14&fire=39FF14&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=39FF14&sideLabels=EDEDED&dates=A3A3A3" alt="GitHub Streak" height="185" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Anasqabbal&show_icons=true&hide_border=false&border_radius=12&bg_color=0A0A0A&title_color=39FF14&text_color=EDEDED&icon_color=39FF14&border_color=262626" alt="GitHub Stats" height="185" />
+</p>
+
+<!-- <p align="center">
 <img
   src="https://streak-stats.demolab.com?user=Anasqabbal&hide_border=false&border_radius=12&background=0A0A0A&border=262626&stroke=262626&ring=39FF14&fire=39FF14&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=39FF14&sideLabels=EDEDED&dates=A3A3A3"
   alt="GitHub Streak"
 />
-</p>
+</p> -->
 
 ---
 
