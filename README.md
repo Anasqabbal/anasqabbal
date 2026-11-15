@@ -1,8 +1,18 @@
 <p align="center">
   <img src="./linkedin_banner%20(1)%20(1).jpg" alt="Profile banner" width="100%" />
 </p>
-<h1 align="center">Hi, I'm Anas Qabbal 👋</h1>
-<h3 align="center">Software Engineer | Systems, Backend & Full-Stack</h3>
+
+
+<!-- 2. SHORT INTRO IN CODE BLOCK -->
+```ts
+const engineer = {
+  name: "Anas Qabbal",
+  focus: ["Systems Programming", "Backend Architecture", "DevOps & Security"],
+  languages: ["C", "C++", "TypeScript", "Python", "Bash"],
+  location: "Morocco",
+  status: "Building resilient low-level & distributed systems"
+};
+```
 
 <div align="center">
 
@@ -13,13 +23,13 @@
 </div>
 
 ---
-
+<!--
 <div align="center">
 
   [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&login=anqabbal)](https://github.com/mohouyizme/1337-readme)
 
   [![42 stats 2026](https://1337-stats.vercel.app/api/stats?login=anqabbal)](https://github.com/mohouyizme/1337-readme)
-</div> 
+</div> -->
 
 <!--
 <p align="center">
