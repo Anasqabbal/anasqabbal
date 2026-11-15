@@ -16,7 +16,7 @@
 </p> -->
 
 <p align="center">
-  <img src="./intro-.svg" alt="Anas Qabbal Terminal Bio" width="100%" />
+  <img src="./assets/intro-.svg" alt="Anas Qabbal Terminal Bio" width="100%" />
 </p>
 
 
@@ -64,20 +64,19 @@
 
 <p align="center">
   <a href="https://github.com/Anasqabbal/SentinelRAG">
-    <img src="./SentinelRAG.svg" alt="SentinelRAG" width="49.5%" />
+    <img src="./assets/SentinelRAG.svg" alt="SentinelRAG" width="49.5%" />
   </a>
   <a href="https://github.com/Anasqabbal/ft_transcendence">
-    <img src="./ft_transcendence.svg" alt="ft_transcendence" width="49.5%" />
+    <img src="./assets/ft_transcendence.svg" alt="ft_transcendence" width="49.5%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Anasqabbal/webserv">
-    <img src="./webserv.svg" alt="webserv" width="49.5%" />
+    <img src="./assets/webserv.svg" alt="webserv" width="49.5%" />
   </a>
   <a href="https://github.com/Anasqabbal/inception">
-    <img src="./inception.svg" alt="inception" width="49.5%" />
+    <img src="./assets/inception.svg" alt="inception" width="49.5%" />
   </a>
 </p>
-
 
