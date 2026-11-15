@@ -4,16 +4,13 @@
 
 
 <p align="center">
-  <img src="./about-me-svg.svg" alt="Anas Qabbal Terminal Bio" width="100%" />
+  <img src="./about-me-svg.svg" alt="Anas Qabbal Terminal Bio" width="800" />
 </p>
 
-
 <div align="center">
-
-[![42 Network](https://img.shields.io/badge/42-black)](https://profile.intra.42.fr/users/anasqabbal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/in/anasqabbal)
-[![Email](https://img.shields.io/badge/Email-D14836)](mailto:anasqabbal22@gmail.com)
-
+  [![42 Network](https://img.shields.io/badge/42-black)](https://profile.intra.42.fr/users/anasqabbal)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/in/anasqabbal)
+  [![Email](https://img.shields.io/badge/Email-D14836)](mailto:anasqabbal22@gmail.com)
 </div>
 
 ---
