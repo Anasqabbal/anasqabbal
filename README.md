@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./linkedin_banner%20(1)%20(1).jpg" alt="Profile banner" width="100%" />
+  <img src="./LinkedinGitHub_banner.jpg" alt="Profile banner" width="100%" />
 </p>
-
 
 
 <p align="center">
