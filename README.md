@@ -14,27 +14,28 @@
 
 ---
 
-<!-- <div align="center">
+<div align="center">
 
   [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&login=anqabbal)](https://github.com/mohouyizme/1337-readme)
 
   [![42 stats 2026](https://1337-stats.vercel.app/api/stats?login=anqabbal)](https://github.com/mohouyizme/1337-readme)
-</div> -->
+</div> 
 
+<!--
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
   <img src="https://badge.mediaplus.ma/greenbinary/anqabbal" alt="anqabbal's 42 stats" />
   </a>
-</p>
+</p> -->
 
 
 ---
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Anasqabbal&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF"
-    alt="GitHub Streak"
-  />
+<img
+  src="https://streak-stats.demolab.com?user=Anasqabbal&hide_border=false&border_radius=12&background=0A0A0A&border=262626&stroke=262626&ring=39FF14&fire=39FF14&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=39FF14&sideLabels=EDEDED&dates=A3A3A3"
+  alt="GitHub Streak"
+/>
 </p>
 
 ---
