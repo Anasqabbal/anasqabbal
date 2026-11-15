@@ -1,3 +1,11 @@
+<div align="center">
+
+[![42 Network](https://img.shields.io/badge/42_Network-0A0A0A?style=for-the-badge&logo=42&logoColor=39FF14)](https://profile.intra.42.fr/users/anasqabbal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/anasqabbal)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:anasqabbal22@gmail.com)
+
+</div>
+
 <p align="center">
   <img src="./LinkedinGitHub_banner.jpg" alt="Profile banner" width="100%" />
 </p>
@@ -12,15 +20,7 @@
 </p>
 
 
-<div align="center">
-  
-[![42 Network](https://img.shields.io/badge/42-black)](https://profile.intra.42.fr/users/anasqabbal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/in/anasqabbal)
-[![Email](https://img.shields.io/badge/Email-D14836)](mailto:anasqabbal22@gmail.com)
 
-</div>
-
----
 <!--
 <div align="center">
 
@@ -37,7 +37,6 @@
 </p> -->
 
 
----
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anasqabbal&hide_border=false&border_radius=12&background=0A0A0A&border=262626&stroke=262626&ring=39FF14&fire=39FF14&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=39FF14&sideLabels=EDEDED&dates=A3A3A3" alt="GitHub Streak" height="185" />
