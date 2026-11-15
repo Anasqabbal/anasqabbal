@@ -1,3 +1,4 @@
+![Project banner](./linkedin_banner (1) (1).jpg)
 <h1 align="center">Hi, I'm Anas Qabbal 👋</h1>
 <h3 align="center">Software Engineer | Systems, Backend & Full-Stack</h3>
 
