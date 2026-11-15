@@ -1,4 +1,6 @@
-![Project banner](./linkedin_banner (1) (1).jpg)
+<p align="center">
+  <img src="./linkedin_banner%20(1)%20(1).jpg" alt="Profile banner" width="100%" />
+</p>
 <h1 align="center">Hi, I'm Anas Qabbal 👋</h1>
 <h3 align="center">Software Engineer | Systems, Backend & Full-Stack</h3>
 
