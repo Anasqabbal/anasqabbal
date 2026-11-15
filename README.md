@@ -7,6 +7,7 @@
   <img src="./about-me-svg.svg" alt="Anas Qabbal Terminal Bio" width="800" />
 </p>
 
+
 <div align="center">
 [![42 Network](https://img.shields.io/badge/42-black)](https://profile.intra.42.fr/users/anasqabbal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/in/anasqabbal)
