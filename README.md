@@ -3,7 +3,7 @@
 </p>
 
 
-<!-- 2. SHORT INTRO IN CODE BLOCK -->
+
 ```ts
 const engineer = {
   name: "Anas Qabbal",
@@ -12,7 +12,7 @@ const engineer = {
   location: "Morocco",
   status: "Building resilient low-level & distributed systems"
 };
-```
+
 
 <div align="center">
 
