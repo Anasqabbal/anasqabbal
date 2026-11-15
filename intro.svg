@@ -1,0 +1,16 @@
+<svg width="1584" height="280" viewBox="0 0 1584 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="1582" height="278" rx="14" fill="#0A0A0A" stroke="#262626" stroke-width="2" />
+  
+  <circle cx="32" cy="30" r="6.5" fill="#FF5F56" />
+  <circle cx="56" cy="30" r="6.5" fill="#FFBD2E" />
+  <circle cx="80" cy="30" r="6.5" fill="#27C93F" />
+  <line x1="1" y1="56" x2="1583" y2="56" stroke="#262626" stroke-width="1.5" />
+
+  <text x="38" y="96" fill="#39FF14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" font-weight="bold">~/anasqabbal $ cat profile.json</text>
+  
+  <text x="38" y="132" fill="#EDEDED" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">{</text>
+  <text x="68" y="164" fill="#A3A3A3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">"focus": <tspan fill="#EDEDED">["Software Engineer", "Full Stack", "Systems", "Applied AI", "DevOps"],</tspan></text>
+  <text x="68" y="196" fill="#A3A3A3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">"stack": <tspan fill="#EDEDED">["C", "C++", "JavaScript", "TypeScript", "Next.js", "NestJS", "Python", "MySQL", "PostgreSQL", "Bash"],</tspan></text>
+  <text x="68" y="228" fill="#A3A3A3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">"status": <tspan fill="#39FF14">"Building resilient low-level + distributed systems"</tspan></text>
+  <text x="38" y="256" fill="#EDEDED" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18">}</text>
+</svg>
