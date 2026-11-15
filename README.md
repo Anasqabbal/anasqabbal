@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="./LinkedinGitHub_banner.jpg" alt="Profile banner" width="100%" />
+  <img src="./assets/LinkedinGitHub_banner.jpg" alt="Profile banner" width="100%" />
 </p>
 
 
