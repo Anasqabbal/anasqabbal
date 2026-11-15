@@ -4,14 +4,9 @@
 
 
 
-```ts
-const engineer = {
-  name: "Anas Qabbal",
-  focus: ["Systems Programming", "Backend Architecture", "DevOps & Security"],
-  languages: ["C", "C++", "TypeScript", "Python", "Bash"],
-  location: "Morocco",
-  status: "Building resilient low-level & distributed systems"
-};
+<p align="center">
+  <img src="./about-me-svg.svg" alt="Anas Qabbal Terminal Bio" width="100%" />
+</p>
 
 
 <div align="center">
